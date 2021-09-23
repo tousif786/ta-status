@@ -1,0 +1,63 @@
+# Copyright (C) 2021 TA Status
+# This file is distributed under the same license as the TA Status package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TA Status 1.0.0\n"
+"Report-Msgid-Bugs-To: https://ndexcodes.com\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-08-13T23:01:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ta-status\n"
+
+#. Name of the plugin
+msgid "TA Status"
+msgstr ""
+
+# Settings page
+msgid "Settings"
+msgstr ""
+
+# Status heading
+msgid "Status"
+msgstr ""
+
+# Enter status heading
+msgid "Enter status"
+msgstr ""
+
+# Admin page description
+msgid "Below status will be visible on dashboard widget."
+msgstr ""
+
+# Submit button text
+msgid "Submit"
+msgstr ""
+
+# Overwrite status text on admin settings page
+msgid "Overwrite status on all sub site"
+msgstr ""
+
+# Access denied
+msgid "Access Denied."
+msgstr ""
+
+# Notice for update
+msgid "Status updated successfully."
+msgstr ""
+
+# Status message validation error
+msgid "Status message field is required."
+msgstr ""
+
+# Status not found, a dashboard widget message
+msgid "No status found."
+msgstr ""
+
+# Add status from dashboard
+msgid "Add one here"
+msgstr ""
