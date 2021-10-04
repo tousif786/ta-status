@@ -1,4 +1,4 @@
-=== WP Post Status ===
+=== TA Status ===
 Contributors: tousif_ali
 Donate link: https://www.buymeacoffee.com/tousif-ali
 Tags: status, admin, network
